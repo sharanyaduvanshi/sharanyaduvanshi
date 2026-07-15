@@ -14,14 +14,14 @@
 
 
 ## 📊 GitHub Stats:
-### <h4 align="center">![](https://github-readme-stats.vercel.app/api?username=ybsharan&theme=onedark&hide_border=false&include_all_commits=true&count_private=false) &nbsp; &nbsp; &nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharanyaduvanshi&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/> <br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=ybsharan&theme=onedark&hide_border=false)</h4>
+### <h4 align="center">![](https://github-readme-stats.vercel.app/api?username=sharanyaduvanshi&theme=onedark&hide_border=false&include_all_commits=true&count_private=false) &nbsp; &nbsp; &nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharanyaduvanshi&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/> <br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=sharanyaduvanshi&theme=onedark&hide_border=false)</h4>
 
 ---
 ### <h2 align="center">🔝 Top Contributed Repo</h2>
-### <h4 align="center">![](https://github-contributor-stats.vercel.app/api?username=ybsharan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)</h4>
+### <h4 align="center">![](https://github-contributor-stats.vercel.app/api?username=sharanyaduvanshi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)</h4>
 ---
 ### <h2 align="center">✍️ Dev Quote</h2>
 ### <h4 align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</h4>
 
 ---
-### <h2 align="center">![](https://visitcount.itsvg.in/api?id=ybsharan&icon=0&color=0)</h2>
+### <h2 align="center">![](https://visitcount.itsvg.in/api?id=sharanyaduvanshi&icon=0&color=0)</h2>
